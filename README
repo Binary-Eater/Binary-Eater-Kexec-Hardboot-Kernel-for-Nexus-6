@@ -15,4 +15,4 @@ HOW TO BUILD THIS KERNEL!!!
 	make shamu_defconfig
 	make
 
-	If you are experiencing further issues or have any questions about memory reservation locations for projects like MultiROM, please email binary-eater@gmail.com
+	If you are experiencing further issues or have any questions about memory reservation locations for projects like MultiROM, please email eaterofbinary@gmail.com
