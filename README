@@ -1,3 +1,9 @@
+HOW TO PULL SOURCE CODE!!!
+
+git clone --recursive https://github.com/Binary-Eater/Binary-Eater-Kexec-Hardboot-Kernel-for-Nexus-6.git
+
+This will pull all the submodules needed to build as well.
+
 HOW TO BUILD THIS KERNEL!!!
 
 	First run the run_this_android.sh script
